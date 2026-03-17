@@ -201,4 +201,4 @@ O desafio foi utilizado para avaliar a aplicação sob a ótica de qualidade, ri
 
 Foram identificadas falhas relevantes que impactam diretamente a confiabilidade do sistema.
 
-A abordagem adotada priorizou não apenas execução de testes, mas análise crítica, identificação de riscos e پیشنهاد de melhorias alinhadas à qualidade do produto.
+A abordagem adotada priorizou não apenas execução de testes, mas análise crítica, identificação de riscos e melhorias alinhadas à qualidade do produto.
